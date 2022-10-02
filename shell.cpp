@@ -58,7 +58,7 @@ void printWelcomeString()
 {
     printf(FYEL("************************************************************************************************\n"));
     printf(FYEL("**----------------------- Welcome to Custom Linux Terminal -----------------------------------**\n"));
-    printf(FYEL("**-------- ##   With Great powers comes great Responsibilty ##--------------------------------**\n"));
+    printf(FYEL("**-------- ##   With Great power  comes great Responsibilty ##--------------------------------**\n"));
     printf(FYEL("**-------- ##   For help , enter help                           ------------------------------**\n"));
     printf(FYEL("************************************************************************************************\n"));
     fflush(stdout);
