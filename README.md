@@ -31,6 +31,8 @@ It Also gives a warning, when the prescribed directory does not exist.
 
 ![Directory](Images/directory.png)
 
+
+
 ### History
 ---
 
@@ -48,3 +50,4 @@ Any process can be run in background using `&` command. A message with the PID o
 
 ![ps](Images/ps.png)
 
+Note : The Method of creating a background process within C is reffered from exsiting  sources on internet
